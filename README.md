@@ -10,10 +10,10 @@ To do List
 3. Establish html5 based page
 
 
-Potential hierarchy for Toy
+Potential hierarchy for Toy 
 Company>Style>Line>Series>Year>Name>Ratio>Artist>Box>Card>Accessory>Retail>Cost>Condition>Estimate
 
-Potential hieracrhy for Comic
+Potential hieracrhy for Comic 
 Company>Title>Issue>Retail>Cost>Condition>Estimate
 
 Remember if you are making pizza to put aside **20mins** prep time for the dough 3 hours before *you* want to eat.
