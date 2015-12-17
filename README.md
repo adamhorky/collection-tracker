@@ -5,18 +5,32 @@ It seems like a good tool.
 
 To do List 
 
-1. Hierarcy
-2. Dependancies?
-3. Establish html5 based page
+1. Item ID
+ -   Manufacturer	Line
+ -   Series Name	
+ -   Series	Year	
+ -   Total Made	
+ -   Retail	Name	
+ -   Version	
+ -   Ratio	
+ -   Artist	
+ -   Box	
+ -   Card	
+ -   Accessory	
+ -   Estimate	
+ -   Cost
+
+2. Dependancies
+ -   GCC 4.4.x or later
+ -   CMake 2.8.7 or higher
+ -   Git
+ -   GTK+2.x or higher, including headers (libgtk2.0-dev)
+ -   pkg-config
+ -   Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)
+ -   ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev
+3. Establish html5 based page for Database Entry
 
 
-Potential hierarchy for Toy
-
-Company>Style>Line>Series>Year>Name>Ratio>Artist>Box>Card>Accessory>Retail>Cost>Condition>Estimate
-
-Potential hieracrhy for Comic 
-
-Company>Title>Issue>Retail>Cost>Condition>Estimate
 
 Remember if you are making pizza to put aside **20mins** prep time for the dough 3 hours before *you* want to eat.
 
