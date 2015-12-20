@@ -6,11 +6,14 @@ It seems like a good tool.
 To do List 
 
 1. Item ID
- -   Manufacturer	Line
+ -   Manufacturer
+ -   Platform
  -   Series Name	
- -   Series	Year	
+ -   Series Number
+ -   Year	of Release
  -   Total Made	
- -   Retail	Name	
+ -   Retail	Price
+ -   Name
  -   Version	
  -   Ratio	
  -   Artist	
@@ -28,7 +31,9 @@ To do List
  -   pkg-config
  -   Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)
  -   ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev
-3. Establish html5 based page for Database Entry
+
+3. Research installation and use of OpenCV
+4. Establish html5 based page for Database Entry (MariaDB?)
 
 
 
