@@ -33,12 +33,15 @@ To do List
  -   ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev
 
 3. Research installation and use of OpenCV
-4. Establish html5 based page for Database Entry (MariaDB?)
+ - **[Linux Install Tutorial](http://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)** 
+ - **[Getting Started](http://docs.opencv.org/master/d6/d00/tutorial_py_root.html)** 
 
-
-
-Remember if you are making pizza to put aside **20mins** prep time for the dough 3 hours before *you* want to eat.
-
+4. Establish html5 based page for Database Entry (MariaDB?) 
+ 
+ 
+ 
+ 
+ 
 **Don't forget to check out [cinderpark.com](http://cinderpark.com)**
 
 # Time to Git
